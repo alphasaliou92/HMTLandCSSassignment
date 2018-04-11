@@ -1,0 +1,26 @@
+h1{
+    font-family: Arial; 
+    color: brown;
+    
+}
+h2{
+    font-family: inherit, sans-serif; 
+    color: currentColor
+}
+
+body{
+    background-color: #5F9EA0;
+    margin: 40px;
+    text-decoration: none
+}
+
+p{
+    color: aliceblue;
+    border-color: black;
+    }
+.p2{
+    color: burlywood
+}
+.p1{
+    color: snow
+}
